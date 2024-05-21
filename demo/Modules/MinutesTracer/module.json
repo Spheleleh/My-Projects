@@ -1,0 +1,11 @@
+{
+    "name": "MinutesTracer",
+    "alias": "minutestracer",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\MinutesTracer\\Providers\\MinutesTracerServiceProvider"
+    ],
+    "files": []
+}
